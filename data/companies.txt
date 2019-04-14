@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Fru",
+        "domains": ["frutty.com", "fru.info"],
+        "description": "Fruits Manufacturing Company",
+        "health_score": "Happy",
+        "account_tier": "Red",
+        "renewal_date": "2020-12-01",
+        "industry":"B2C sales"
+
+	},
+    {
+        "name": "Linked Provider",
+        "domains": ["lp.com", "lpro.net"],
+        "description": "Hosting Providing Company",
+        "health_score": "Doing okay",
+        "account_tier": "Red",
+        "renewal_date": "2020-01-01",
+        "industry":"Hosting"
+	},
+    {
+        "name": "Telecom Uruguay",
+        "domains": ["utele.com"],
+        "description": "Uruguay Telecom",
+        "health_score": "At risk",
+        "account_tier": "Orange",
+        "renewal_date": "2020-09-01",
+        "industry":"Telecom"
+	},
+    {
+        "name": "Brown Duke",
+        "domains": ["brownduke.co.uk"],
+        "health_score": "Happy",
+        "account_tier": "No TAM",
+        "renewal_date": "2020-04-15"
+	},
+    {
+        "name": "Tewemor",
+        "domains": ["twm.com"],
+        "health_score": "At risk",
+        "account_tier": "Default",
+        "renewal_date": "2020-12-01"
+	},
+    {
+        "name": "Kods grey",
+        "domains": ["kgrey.net"],
+        "health_score": "Doing okay",
+        "account_tier": "Orange",
+        "renewal_date": "2019-12-01"
+	},
+    {
+        "name": "JCN Africa",
+        "domains": ["jcn.com"],
+        "health_score": "Doing okay",
+        "account_tier": "Orange",
+        "renewal_date": "2020-12-01"
+	},
+    {
+        "name": "O3",
+        "domains": ["o3.com"],
+        "note": "No current contract, only legacy products in use",
+        "health_score": "At risk",
+        "account_tier": "Default",
+        "renewal_date": "2020-03-01"
+	},
+    {
+        "name": "Cloudyellow",
+        "domains": ["yellowcloud.com"],
+        "health_score": "Happy",
+        "account_tier": "No TAM",
+        "renewal_date": "2022-12-01"
+	},
+    {
+        "name": "South Park",
+        "domains": ["sp.com", "spark.info"],
+        "description": "Fractured but Whole",
+        "health_score": "Happy",
+        "account_tier": "Orange",
+        "renewal_date": "2021-12-01",
+        "industry": "Telecom"
+	}
+]
